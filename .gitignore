@@ -1,0 +1,36 @@
+.env
+# API keys and environment variables
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+.venv-*/
+venv/
+env/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Generated project data
+data/raw/*
+data/processed/*
+data/exports/*
+
+# Keep data folders
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/exports/.gitkeep
