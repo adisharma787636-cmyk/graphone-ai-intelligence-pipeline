@@ -27,10 +27,23 @@ Thumbs.db
 
 # Generated project data
 data/raw/*
-data/processed/*
-data/exports/*
 
-# Keep data folders
-!data/raw/.gitkeep
+# Processed data required for dashboard
+data/processed/*
 !data/processed/.gitkeep
+!data/processed/llm_extractions.json
+!data/processed/resolved_entities.json
+
+# Exported datasets required for dashboard
+data/exports/*
 !data/exports/.gitkeep
+!data/exports/ai_jobs.csv
+!data/exports/ai_jobs_clean.csv
+!data/exports/ai_news.csv
+!data/exports/ai_products.csv
+!data/exports/ai_startups.csv
+!data/exports/arxiv_papers.csv
+!data/exports/arxiv_papers_enriched.csv
+!data/exports/entity_mapping_log.csv
+# Local dashboard backup
+src/dashboard/app_backup.py

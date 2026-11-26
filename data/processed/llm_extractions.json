@@ -1,0 +1,420 @@
+[
+    {
+        "article_title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+        "article_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+        "source_name": "TechCrunch AI",
+        "published_at": "2026-11-21T21:37:10+00:00",
+        "text_source": "full_article",
+        "llm_result": {
+            "success": true,
+            "provider": "Gemini",
+            "extracted_at": "2026-11-22T18:36:42.942294+00:00",
+            "data": {
+                "entities": [
+                    {
+                        "entity_type": "ai_product",
+                        "name": "OS-level AI agent",
+                        "website_url": null,
+                        "description": "AI agents integrated into operating systems capable of scanning screen information.",
+                        "category": "Operating System AI",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": null
+                    }
+                ]
+            },
+            "errors": []
+        }
+    },
+    {
+        "article_title": "A tale of two Nvidias",
+        "article_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+        "source_name": "TechCrunch AI",
+        "published_at": "2026-11-21T21:07:42+00:00",
+        "text_source": "full_article",
+        "llm_result": {
+            "success": true,
+            "provider": "Gemini",
+            "extracted_at": "2026-11-22T18:36:45.093153+00:00",
+            "data": {
+                "entities": [
+                    {
+                        "entity_type": "ai_product",
+                        "name": "H200",
+                        "website_url": null,
+                        "description": "AI chip model produced by Nvidia.",
+                        "category": "AI hardware",
+                        "developer": "Nvidia",
+                        "pricing_model": null,
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "startup",
+                        "name": "Anthropic",
+                        "website_url": null,
+                        "description": "AI research company co-owned by Amazon and Google.",
+                        "category": "AI research",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Artex AI",
+                        "website_url": null,
+                        "description": "Open source hacking tool used to breach networks.",
+                        "category": "Security tool",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": null
+                    }
+                ]
+            },
+            "errors": []
+        }
+    },
+    {
+        "article_title": "Here are the top AI agents that can live in your text messages",
+        "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "source_name": "TechCrunch AI",
+        "published_at": "2026-11-21T17:00:00+00:00",
+        "text_source": "full_article",
+        "llm_result": {
+            "success": true,
+            "provider": "Gemini",
+            "extracted_at": "2026-11-22T18:36:53.557903+00:00",
+            "data": {
+                "entities": [
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Instinct",
+                        "website_url": null,
+                        "description": "An AI agent that can take actions on a user's behalf by connecting to existing apps and services like email, calendar, and Google Workspace.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Ask Proxy",
+                        "website_url": null,
+                        "description": "An AI chatbot designed to anticipate needs before they are asked, working over SMS to manage calendars, set reminders, and provide recommendations.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": "$1 per day for personal; starting at $15-$23 per employee per month for businesses",
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Caddy",
+                        "website_url": null,
+                        "description": "An AI assistant that integrates with iMessage and RCS to manage information, events, and reminders across phone conversations.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": "2026-04-01"
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Comma",
+                        "website_url": null,
+                        "description": "Designed to manage tasks across work and life, checking its own work and determining when tasks are finished.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": "Free and open source",
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Fambot",
+                        "website_url": null,
+                        "description": "An AI-powered chief of staff for families, organizing school communications, meal planning, and calendars.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": "Currently free during beta; expects to charge a subscription fee later",
+                        "launch_date": "2026-09-01"
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Folk",
+                        "website_url": null,
+                        "description": "An AI assistant reachable via iMessage, WhatsApp, and Telegram that runs on its own private cloud and executes multi-step tasks.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": "Free with an optional $8.33/month Pro subscription",
+                        "launch_date": "2026-05-01"
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Haven",
+                        "website_url": null,
+                        "description": "A digital twin AI that adapts to user preferences, routines, and decision-making styles to create a personalized memory graph.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": "Free during beta",
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Iris",
+                        "website_url": null,
+                        "description": "AI assistant powered by Hermes Agent that lets users delegate tasks via iMessage.",
+                        "category": "AI assistant",
+                        "developer": "Hermes Agent",
+                        "pricing_model": null,
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Martin",
+                        "website_url": null,
+                        "description": "A general-purpose personal assistant accessible through SMS, phone, WhatsApp, email, Slack, and an iOS app.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": "Starts at $21 per month",
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Maverick",
+                        "website_url": null,
+                        "description": "An AI companion for messaging apps that helps manage tasks, cancel subscriptions, and schedule meetings.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": "Free on iMessage; Pro version for €27 per month",
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Miso",
+                        "website_url": null,
+                        "description": "A travel-focused AI assistant operating through iMessage for trip planning and flight management.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Ohai",
+                        "website_url": null,
+                        "description": "A family assistant helping households manage information, schedules, and chores.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": "Starts at $9.99 per month",
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Orbits",
+                        "website_url": null,
+                        "description": "A household AI assistant accessible via app and text that handles tasks like web searching, purchases, and service quotes.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Pally",
+                        "website_url": null,
+                        "description": "AI assistant that connects information across WhatsApp, Gmail, calendars, and Google Drive.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": "Free plan available",
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Poke",
+                        "website_url": null,
+                        "description": "A general-purpose assistant that handles tasks across calendars, planning, health, and smart-home controls.",
+                        "category": "AI assistant",
+                        "developer": "The Interaction Company of California",
+                        "pricing_model": null,
+                        "launch_date": "2026-03-01"
+                    },
+                    {
+                        "entity_type": "startup",
+                        "name": "Cognition",
+                        "website_url": null,
+                        "description": "An AI coding startup that acquired The Interaction Company of California.",
+                        "category": "AI coding",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Rene",
+                        "website_url": null,
+                        "description": "A text-based personal assistant that maintains conversation context and can write code, shop, and create slides.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Skye",
+                        "website_url": null,
+                        "description": "An agentic homescreen for iPhone that analyzes information and surfaces relevant updates.",
+                        "category": "AI assistant",
+                        "developer": "Signull Labs",
+                        "pricing_model": null,
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "startup",
+                        "name": "Signull Labs",
+                        "website_url": null,
+                        "description": "The company behind the AI product Skye.",
+                        "category": "AI",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Stanley",
+                        "website_url": null,
+                        "description": "An AI content assistant for creators that helps generate ideas, turn them into posts, and schedule content.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Szn",
+                        "website_url": null,
+                        "description": "An AI assistant that coordinates tasks and follow-ups through a single conversation thread.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Tab",
+                        "website_url": null,
+                        "description": "Allows users to delegate everyday tasks through messaging platforms.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Tomo",
+                        "website_url": null,
+                        "description": "A personal assistant for iMessage capable of participating in group conversations and managing various tasks.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": "Starts at $19.99 per month",
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Town",
+                        "website_url": null,
+                        "description": "Professional-focused AI assistant designed to handle recurring tasks across email, calendar, and Slack.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Underdog",
+                        "website_url": null,
+                        "description": "A privacy-focused AI assistant that runs entirely on the user's device.",
+                        "category": "AI assistant",
+                        "developer": null,
+                        "pricing_model": "Free",
+                        "launch_date": "2026-10-01"
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Fo",
+                        "website_url": null,
+                        "description": "A consumer agent that performs tasks like calling businesses, sending emails, and making purchases.",
+                        "category": "AI assistant",
+                        "developer": "Wajo",
+                        "pricing_model": "Free tier available; Pro offering for heavier workloads",
+                        "launch_date": "2026-09-01"
+                    },
+                    {
+                        "entity_type": "startup",
+                        "name": "Wajo",
+                        "website_url": null,
+                        "description": "Company that developed the consumer agent Fo.",
+                        "category": "AI",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": null
+                    }
+                ]
+            },
+            "errors": []
+        }
+    },
+    {
+        "article_title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+        "article_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+        "source_name": "TechCrunch AI",
+        "published_at": "2026-11-21T16:00:00+00:00",
+        "text_source": "full_article",
+        "llm_result": {
+            "success": true,
+            "provider": "Gemini",
+            "extracted_at": "2026-11-22T18:36:56.349569+00:00",
+            "data": {
+                "entities": [
+                    {
+                        "entity_type": "startup",
+                        "name": "Shortical",
+                        "website_url": null,
+                        "description": "A microdrama startup that produces soapy storylines and has recently incorporated AI-generated content and face-licensing into its platform.",
+                        "category": "Entertainment",
+                        "developer": null,
+                        "pricing_model": "Subscription",
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Inevitable",
+                        "website_url": null,
+                        "description": "A microdrama series starring a digital avatar of actor Aki Avni, created entirely using AI.",
+                        "category": "Entertainment",
+                        "developer": "Shortical",
+                        "pricing_model": null,
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "startup",
+                        "name": "Payouts.com",
+                        "website_url": null,
+                        "description": "A payout infrastructure platform powering creator and gig economy disbursements at scale, partnered with Shortical.",
+                        "category": "Fintech",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": null
+                    },
+                    {
+                        "entity_type": "ai_product",
+                        "name": "Artex AI",
+                        "website_url": null,
+                        "description": "An open source hacking tool used to breach networks.",
+                        "category": "Cybersecurity",
+                        "developer": null,
+                        "pricing_model": null,
+                        "launch_date": null
+                    }
+                ]
+            },
+            "errors": []
+        }
+    }
+]

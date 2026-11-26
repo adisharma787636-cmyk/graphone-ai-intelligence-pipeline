@@ -1,0 +1,985 @@
+[
+    {
+        "raw_name": "OS-level AI agent",
+        "canonical_name": "OS-level AI agent",
+        "entity_type": "ai_product",
+        "description": "AI agents integrated into operating systems capable of scanning screen information.",
+        "category": "Operating System AI",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 100.0,
+        "match_status": "new_entity",
+        "review_reasons": [
+            "Generic technology description"
+        ],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+                "article_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T21:37:10+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940071+00:00"
+    },
+    {
+        "raw_name": "H200",
+        "canonical_name": "H200",
+        "entity_type": "ai_hardware",
+        "description": "AI chip model produced by Nvidia.",
+        "category": "AI hardware",
+        "developer": "Nvidia",
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 100.0,
+        "match_status": "new_entity",
+        "review_reasons": [
+            "Hardware entity; separate from software products"
+        ],
+        "data_quality_flags": [],
+        "articles": [
+            {
+                "article_title": "A tale of two Nvidias",
+                "article_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T21:07:42+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940104+00:00"
+    },
+    {
+        "raw_name": "Anthropic",
+        "canonical_name": "Anthropic",
+        "entity_type": "startup",
+        "description": "AI research company co-owned by Amazon and Google.",
+        "category": "AI research",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 100.0,
+        "match_status": "known_alias_or_seed",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Startup website not available"
+        ],
+        "articles": [
+            {
+                "article_title": "A tale of two Nvidias",
+                "article_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T21:07:42+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940153+00:00"
+    },
+    {
+        "raw_name": "Artex AI",
+        "canonical_name": "Artex AI",
+        "entity_type": "ai_product",
+        "description": "Open source hacking tool used to breach networks.",
+        "category": "Security tool",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "A tale of two Nvidias",
+                "article_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T21:07:42+00:00",
+                "provider": "Gemini"
+            },
+            {
+                "article_title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+                "article_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T16:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 2,
+        "resolved_at": "2026-11-22T18:57:47.940254+00:00"
+    },
+    {
+        "raw_name": "Instinct",
+        "canonical_name": "Instinct",
+        "entity_type": "ai_product",
+        "description": "An AI agent that can take actions on a user's behalf by connecting to existing apps and services like email, calendar, and Google Workspace.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940288+00:00"
+    },
+    {
+        "raw_name": "Ask Proxy",
+        "canonical_name": "Ask Proxy",
+        "entity_type": "ai_product",
+        "description": "An AI chatbot designed to anticipate needs before they are asked, working over SMS to manage calendars, set reminders, and provide recommendations.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": "$1 per day for personal; starting at $15-$23 per employee per month for businesses",
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940314+00:00"
+    },
+    {
+        "raw_name": "Caddy",
+        "canonical_name": "Caddy",
+        "entity_type": "ai_product",
+        "description": "An AI assistant that integrates with iMessage and RCS to manage information, events, and reminders across phone conversations.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": "2026-04-01",
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940340+00:00"
+    },
+    {
+        "raw_name": "Comma",
+        "canonical_name": "Comma",
+        "entity_type": "ai_product",
+        "description": "Designed to manage tasks across work and life, checking its own work and determining when tasks are finished.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": "Free and open source",
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940367+00:00"
+    },
+    {
+        "raw_name": "Fambot",
+        "canonical_name": "Fambot",
+        "entity_type": "ai_product",
+        "description": "An AI-powered chief of staff for families, organizing school communications, meal planning, and calendars.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": "Currently free during beta; expects to charge a subscription fee later",
+        "launch_date": "2026-09-01",
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940420+00:00"
+    },
+    {
+        "raw_name": "Folk",
+        "canonical_name": "Folk",
+        "entity_type": "ai_product",
+        "description": "An AI assistant reachable via iMessage, WhatsApp, and Telegram that runs on its own private cloud and executes multi-step tasks.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": "Free with an optional $8.33/month Pro subscription",
+        "launch_date": "2026-05-01",
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940459+00:00"
+    },
+    {
+        "raw_name": "Haven",
+        "canonical_name": "Haven",
+        "entity_type": "ai_product",
+        "description": "A digital twin AI that adapts to user preferences, routines, and decision-making styles to create a personalized memory graph.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": "Free during beta",
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940493+00:00"
+    },
+    {
+        "raw_name": "Iris",
+        "canonical_name": "Iris",
+        "entity_type": "ai_product",
+        "description": "AI assistant powered by Hermes Agent that lets users delegate tasks via iMessage.",
+        "category": "AI assistant",
+        "developer": "Hermes Agent",
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940532+00:00"
+    },
+    {
+        "raw_name": "Martin",
+        "canonical_name": "Martin",
+        "entity_type": "ai_product",
+        "description": "A general-purpose personal assistant accessible through SMS, phone, WhatsApp, email, Slack, and an iOS app.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": "Starts at $21 per month",
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940578+00:00"
+    },
+    {
+        "raw_name": "Maverick",
+        "canonical_name": "Maverick",
+        "entity_type": "ai_product",
+        "description": "An AI companion for messaging apps that helps manage tasks, cancel subscriptions, and schedule meetings.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": "Free on iMessage; Pro version for €27 per month",
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940627+00:00"
+    },
+    {
+        "raw_name": "Miso",
+        "canonical_name": "Miso",
+        "entity_type": "ai_product",
+        "description": "A travel-focused AI assistant operating through iMessage for trip planning and flight management.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940680+00:00"
+    },
+    {
+        "raw_name": "Ohai",
+        "canonical_name": "Ohai",
+        "entity_type": "ai_product",
+        "description": "A family assistant helping households manage information, schedules, and chores.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": "Starts at $9.99 per month",
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940737+00:00"
+    },
+    {
+        "raw_name": "Orbits",
+        "canonical_name": "Orbits",
+        "entity_type": "ai_product",
+        "description": "A household AI assistant accessible via app and text that handles tasks like web searching, purchases, and service quotes.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940803+00:00"
+    },
+    {
+        "raw_name": "Pally",
+        "canonical_name": "Pally",
+        "entity_type": "ai_product",
+        "description": "AI assistant that connects information across WhatsApp, Gmail, calendars, and Google Drive.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": "Free plan available",
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940850+00:00"
+    },
+    {
+        "raw_name": "Poke",
+        "canonical_name": "Poke",
+        "entity_type": "ai_product",
+        "description": "A general-purpose assistant that handles tasks across calendars, planning, health, and smart-home controls.",
+        "category": "AI assistant",
+        "developer": "The Interaction Company of California",
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": "2026-03-01",
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.940889+00:00"
+    },
+    {
+        "raw_name": "Cognition",
+        "canonical_name": "Cognition",
+        "entity_type": "startup",
+        "description": "An AI coding startup that acquired The Interaction Company of California.",
+        "category": "AI coding",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Startup website not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.941146+00:00"
+    },
+    {
+        "raw_name": "Rene",
+        "canonical_name": "Rene",
+        "entity_type": "ai_product",
+        "description": "A text-based personal assistant that maintains conversation context and can write code, shop, and create slides.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.941187+00:00"
+    },
+    {
+        "raw_name": "Skye",
+        "canonical_name": "Skye",
+        "entity_type": "ai_product",
+        "description": "An agentic homescreen for iPhone that analyzes information and surfaces relevant updates.",
+        "category": "AI assistant",
+        "developer": "Signull Labs",
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.941228+00:00"
+    },
+    {
+        "raw_name": "Signull Labs",
+        "canonical_name": "Signull Labs",
+        "entity_type": "startup",
+        "description": "The company behind the AI product Skye.",
+        "category": "AI",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Startup website not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.941453+00:00"
+    },
+    {
+        "raw_name": "Stanley",
+        "canonical_name": "Stanley",
+        "entity_type": "ai_product",
+        "description": "An AI content assistant for creators that helps generate ideas, turn them into posts, and schedule content.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.941493+00:00"
+    },
+    {
+        "raw_name": "Szn",
+        "canonical_name": "Szn",
+        "entity_type": "ai_product",
+        "description": "An AI assistant that coordinates tasks and follow-ups through a single conversation thread.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.941536+00:00"
+    },
+    {
+        "raw_name": "Tab",
+        "canonical_name": "Tab",
+        "entity_type": "ai_product",
+        "description": "Allows users to delegate everyday tasks through messaging platforms.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.941579+00:00"
+    },
+    {
+        "raw_name": "Tomo",
+        "canonical_name": "Tomo",
+        "entity_type": "ai_product",
+        "description": "A personal assistant for iMessage capable of participating in group conversations and managing various tasks.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": "Starts at $19.99 per month",
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.941627+00:00"
+    },
+    {
+        "raw_name": "Town",
+        "canonical_name": "Town",
+        "entity_type": "ai_product",
+        "description": "Professional-focused AI assistant designed to handle recurring tasks across email, calendar, and Slack.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.941673+00:00"
+    },
+    {
+        "raw_name": "Underdog",
+        "canonical_name": "Underdog",
+        "entity_type": "ai_product",
+        "description": "A privacy-focused AI assistant that runs entirely on the user's device.",
+        "category": "AI assistant",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": "Free",
+        "launch_date": "2026-10-01",
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available",
+            "Developer information not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.941722+00:00"
+    },
+    {
+        "raw_name": "Fo",
+        "canonical_name": "Fo",
+        "entity_type": "ai_product",
+        "description": "A consumer agent that performs tasks like calling businesses, sending emails, and making purchases.",
+        "category": "AI assistant",
+        "developer": "Wajo",
+        "website_url": null,
+        "pricing_model": "Free tier available; Pro offering for heavier workloads",
+        "launch_date": "2026-09-01",
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.941773+00:00"
+    },
+    {
+        "raw_name": "Wajo",
+        "canonical_name": "Wajo",
+        "entity_type": "startup",
+        "description": "Company that developed the consumer agent Fo.",
+        "category": "AI",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Startup website not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Here are the top AI agents that can live in your text messages",
+                "article_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T17:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.941995+00:00"
+    },
+    {
+        "raw_name": "Shortical",
+        "canonical_name": "Shortical",
+        "entity_type": "startup",
+        "description": "A microdrama startup that produces soapy storylines and has recently incorporated AI-generated content and face-licensing into its platform.",
+        "category": "Entertainment",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": "Subscription",
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Startup website not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+                "article_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T16:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.942191+00:00"
+    },
+    {
+        "raw_name": "Inevitable",
+        "canonical_name": "Inevitable",
+        "entity_type": "ai_product",
+        "description": "A microdrama series starring a digital avatar of actor Aki Avni, created entirely using AI.",
+        "category": "Entertainment",
+        "developer": "Shortical",
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Product website not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+                "article_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T16:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.942238+00:00"
+    },
+    {
+        "raw_name": "Payouts.com",
+        "canonical_name": "Payouts.com",
+        "entity_type": "startup",
+        "description": "A payout infrastructure platform powering creator and gig economy disbursements at scale, partnered with Shortical.",
+        "category": "Fintech",
+        "developer": null,
+        "website_url": null,
+        "pricing_model": null,
+        "launch_date": null,
+        "match_score": 0.0,
+        "match_status": "new_entity",
+        "review_reasons": [],
+        "data_quality_flags": [
+            "Startup website not available"
+        ],
+        "articles": [
+            {
+                "article_title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+                "article_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+                "source_name": "TechCrunch AI",
+                "published_at": "2026-11-21T16:00:00+00:00",
+                "provider": "Gemini"
+            }
+        ],
+        "article_count": 1,
+        "resolved_at": "2026-11-22T18:57:47.942432+00:00"
+    }
+]
